@@ -192,9 +192,10 @@ print()
 This will produce an output similar to this:
 
 ```shell
-user@computer:~/vanity_rekey$ ./address_generator.py
+user@computer:~/vanity_rekey$ ./vanity_generator.py
  2413655 (7913.30/sec) 
 Found after 2413656 attempts and 305.01 seconds
-DODOQWKBJON2AAPPORNB6MWBRT45ED3FJ52EK4SSFEIX6ELFYWP5RZK3PU
-O533OJJz7+QkbkrIBnzbX8omAFQlRBgwzu7M+qbqreQbhuhZQUuboAHvdFofMsGM+dIPZU90RXJSKRF/EWXFnw==
+DODOFHRUXE6R47FZLMKKAOA2V6MEWLIMH4HZ3MKOWEAHVJ2EIQAG22XJ7I
+EqwaIvhPqLOJjGRmK0v5RwrqCC/4uRehserEPxo+//IbhuKeNLk9Hny5WxSgOBqvmEstDD8PnbFOsQB6p0REAA==
+liquid height baby zebra explain hollow gold goose holiday coach witness piece staff season scrap rigid carry shoot inspire wisdom crucial sort obey abstract enough
 ```
